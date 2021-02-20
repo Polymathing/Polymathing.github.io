@@ -168,9 +168,11 @@ p {
 
 #footer {
     background-color: #ffff;
-    text-decoration: none;
 }
 
+.a-footer {
+    text-decoration: none;
+}
 .social-icon {
     margin: 25px 10px;
 }
