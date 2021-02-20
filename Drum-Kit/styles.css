@@ -83,3 +83,8 @@ footer {
 footer {
   font-size: 12px;
 }
+
+a {
+  text-decoration: none;
+  color: rgb(199, 199, 199);
+}
